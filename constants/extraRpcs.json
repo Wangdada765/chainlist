@@ -1517,4 +1517,9 @@
             "https://node.0xtchain.com"
         ]
     }
+    "10001":{
+        "rpcs":[
+            "https://mainnet.ethereumpow.org"
+        ]
+    }
 }
